@@ -7,3 +7,9 @@ spring:
       server:
         git:
           uri: https://github.com/MrRightLi/cute-config.git
+          username: 275068651@qq.com
+          password: lizheng829475
+
+prod:
+  host: 127.0.0.1
+  user: lz
