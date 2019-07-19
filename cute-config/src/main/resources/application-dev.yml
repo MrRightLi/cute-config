@@ -2,10 +2,8 @@ server:
   port: 8888
 
 spring:
-  application:
-    name: cute-config
   cloud:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/MrRightLi/cute-config.git
